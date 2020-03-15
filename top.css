@@ -1,0 +1,51 @@
+/* ここから下に記載していく */
+html {background:#fff;font-size:100%;}
+body,div,h1 {margin:0;padding:0;}
+
+body{
+    font-family:"BIZ UDゴシック", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	text-align: left;
+	line-height: 2;
+	color: #333;
+}
+.header{
+    background-color:rgb(61, 128, 253) ;
+    float: right;
+    line-height: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+    clear: both;
+}
+
+.footer{
+    bottom: 0;
+   flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    background-color:green;
+    height: 70px;
+    width : 100%;
+}
+.news {
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+​
+.copy{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+​
+}
+.container {
+    position: relative;
+    width: 100%;
+    height: auto !important;
+    height: 100%;
+    min-height: 100%;
+}
