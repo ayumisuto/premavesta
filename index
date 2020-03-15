@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PRIMAVERA〜春〜</title>
+  <!-- <link rel="stylesheet" href="css/reset.css"> -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- この中に記述していく -->
+<div class="container">
+
+<header class="header">
+    <div class="menu-top">
+
+      <div class="open-time">
+          <p>営業時間&nbsp;:&nbsp;10:00&nbsp;〜&nbsp;売り切れ次第終了</p>
+        </div><!-- .holiday -->
+    
+        <div class="holiday">
+          <p>定休日&nbsp;:&nbsp;不定休</p>
+        </div><!-- .holiday -->
+    
+        <div class="menu-top-inner">   
+           
+          <ul class="sns">
+            <p>FOLLOW US!</p>
+            <p>instagram：shun.haru.416
+              <a href="https://www.instagram.com/shun.haru.416/?hl=ja" target="_blank">
+                <img src="img2/insta.png" width="80" height="50" alt="Instagram" onmouseover="this.setAttribute('srcset','https://yamanoue-bakery.com/wp-content/themes/YAMANOUEBAKERY/images/instagram_y.png 1x, https://yamanoue-bakery.com/wp-content/themes/YAMANOUEBAKERY/images/instagram_y@2x.png 2x');" onmouseout="this.setAttribute('srcset','https://yamanoue-bakery.com/wp-content/themes/YAMANOUEBAKERY/images/instagram.png 1x, https://yamanoue-bakery.com/wp-content/themes/YAMANOUEBAKERY/images/instagram@2x.png 2x');">
+              </a>
+              </p>
+              <p>LINE：esukofie1192</p>
+          </ul><!-- .sns -->
+    
+        </div><!-- .menu-top-inner -->
+      </div>
+</header>
+
+
+
+<div class="main">
+  <h1 class="begin">PRIMAVERA〜春〜</h1>
+    <p>#タコス#キッチンカー#谷山#ケサディーヤ
+      <br>
+      #移動販売#鹿児島#桜島#灰
+      <p>
+        <hr>
+    <img src="img2/S__37339151_2.jpg" alt="">
+</div>
+<hr>
+<div class ="section title">NEWS</div>
+  <p>お知らせ<p>
+<div>
+<a href="xxxlinkxxx">2020/1/23 xxxtitlexxx</a>
+</div>
+<div>
+    <a href="xxxlinkxxx">2020/1/23 xxxtitlexxx</a>
+</div>
+
+<div class ="section title">ABOUT</div>
+<h2>PRIMAVERA(プリマヴェーラ)〜春〜について</h2>
+<p class="c">谷山初上陸！？キッチンカーのタコス販売店。<br>
+モチモチの手作り生地、たっぷり野菜。<br>
+小さなお子様はもちろん、おじいちゃん・おばあちゃんも一緒に食べませんか？</p>
+<br>
+<p>出張販売可能</p>
+<p>イベント積極参加!
+  <br>
+  お気軽にお声がけください!
+</p>
+
+<div class="imgBox">
+<p><img src="img2/IMG_4103.png" alt=""></p>
+<p><img src="img2/IMG_4101.png" alt=""></p>
+<p><img src="img2/IMG_4100.png" alt=""></p>
+</div>
+<hr>
+
+<div class="section-title">MENU</div>
+<p>xxxcommentxxx</p>
+<div class="pizza">
+
+<p class="date">2016/11/18</p>
+<h2>xxxmenu namexxx</h2>
+<p><img src="img2/S__37339153.jpg" alt=""></p>
+<p class="comment">xxxx
+  <br>
+  xxxx
+</p>
+</div>
+
+<div class="pizza">
+    <p class="date">2016/11/18</p>
+    <h2>xxxmenu namexxx</h2>    
+<p><img src="img2/S__37339150.jpg" alt=""></p>
+<p class="comment">xxxx
+    <br>
+    xxxx
+  </p>
+  </div>
+  
+<div class="pizza">
+      <p class="date">2016/11/18</p>
+      <h2>xxxmenu namexxx</h2>    
+  
+<p><img src="img2/S__37339154.jpg" alt=""></p>
+<p class="comment">xxxx
+    <br>
+    xxxx
+  </p>
+  </div>
+  
+
+    
+<hr>
+<div class="zyusyo"> 
+<h1 class="i">ACCESS</h1>
+<p>アクセス</p>
+<div class="ggmap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3401.1000772302277!2d130.51729261515064!3d31.5214111813693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x353e642ef6608ae9%3A0xa1219109276b09bb!2z44CSODkxLTAxNDEg6bm_5YWQ5bO255yM6bm_5YWQ5bO25biC6LC35bGx5Lit5aSu77yT5LiB55uu77yU77yV77yT77yQ!5e0!3m2!1sja!2sjp!4v1572825647583!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+ 
+</div>
+
+<div class="pri">
+<div class="ss">
+ <h1>PRIMAVERA〜春〜</h1>
+ <P>〒891-0141 鹿児島県鹿児島市谷山中央３丁目４５３０
+   <br>
+TEL 090-1198-4031
+<br>
+ <p class="small">※営業時間中は電話に出れないことがございます。
+   <br>
+営業時間：〜売り切れ次第終了</p>
+ <p>定休日：不定休</p>
+</div>
+
+<div class="imgBox2">
+ <img src="img2/IMG_4099.PNG" alt="">
+ <img src="img2/IMG_4097.jpg" alt="">
+</div>
+ <div class="ss">
+ <p class="small">赤と緑のキッチンカーが目印。<br>
+自家製生地を使用しているため、数に限りがございます。<br>
+店舗は静かな住宅街に立地しておりますので、<br>
+ご来店の際は近隣の皆様へのご配慮をよろしくお願いいたします。</p>
+</div>
+</div>
+</div>
+
+
+
+
+<fotter class="footer"> 
+
+<p class="copy">Copyrights 2019 PRIMAVERA All RIghts Reserved.</p>
+</fotter>
+<!-- /#footer -->
+<!-- この中に記述していく -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+
+</html>
